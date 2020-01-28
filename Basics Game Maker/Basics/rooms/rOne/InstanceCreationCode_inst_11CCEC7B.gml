@@ -1,0 +1,1 @@
+text = "Please dont murder anyone\n -The Park Ranger"
