@@ -10,10 +10,11 @@ GameObject:
   m_Component:
   - component: {fileID: 5213453461958635365}
   - component: {fileID: 1081645809148467677}
+  - component: {fileID: 366934017831955095}
   m_Layer: 0
-  m_Name: GameManager 1
+  m_Name: GameManager
   m_TagString: Untagged
-  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -43,7 +44,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32a327cde24403d45ae59a40b07263bb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentState: 0
-  level: 1
-  bossRoom: 0
+  currentState: 1
+  level: 3
+  bossRoom: 1
   bossDefeated: 0
+--- !u!114 &366934017831955095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 596266956060550200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 899fdb74c4b041f4c91b863022579c01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  darkTransitionCanvas: {fileID: 0}

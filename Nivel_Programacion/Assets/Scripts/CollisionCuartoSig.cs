@@ -29,13 +29,14 @@ public class CollisionCuartoSig : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-       
 
+        
         if (collision.tag == "Player"&& GameManager.sharedInstance.bossRoom==false&& GameManager.sharedInstance.bossDefeated == false )
         {
-            
+            MenuManager.sharedInstance.ShowDarkTransition();
             GameManager.sharedInstance.level++;
-            SceneManager.LoadScene("Scene" + GameManager.sharedInstance.level, LoadSceneMode.Single); 
+            SceneManager.LoadScene("Scene" + GameManager.sharedInstance.level, LoadSceneMode.Single);
+            Invoke("HideTransition", 1.5f);
             
 
         }
@@ -49,13 +50,20 @@ public class CollisionCuartoSig : MonoBehaviour
             {
                 if (collision.tag == "Player" &&cambio.tag == "Boss"&&GameManager.sharedInstance.bossRoom == true && GameManager.sharedInstance.bossDefeated == true)
                 {
+                    MenuManager.sharedInstance.ShowDarkTransition();
                     collision.GetComponent<Collider2D>().enabled = true;
                     GameManager.sharedInstance.level++;
                     SceneManager.LoadScene("Scene" + GameManager.sharedInstance.level, LoadSceneMode.Single);
-                    
+                    Invoke("HideTransition", 1.5f);
+
                 }
                 
             }
         }
+    }
+
+    void HideTransition()
+    {
+        MenuManager.sharedInstance.HideDarkTransition();
     }
 }
