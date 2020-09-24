@@ -1,0 +1,239 @@
+
+License Agreement for Pro Motion
+
+Copyright ©1997-2018 by Jan Zimmermann / cosmigo, Germany
+All rights reserved
+
+Please read the following terms below carefully.
+When you install, copy or use this software, you confirm that you have read and understood the terms
+of this license agreement and that you recognize its substantive regulations as legally binding.
+If you or the legal entity you represent do not agree to any of the terms or any of the conditions, or any of
+the terms or conditions isn't valid in your country, you must not install or otherwise use the software.
+
+
+1. Parties and Definitions
+"Cosmigo" identifies the originator/author of the software "Pro Motion" and contract partner:
+ Jan Zimmermann
+ Cosmigo Software Development
+ Waldstrasse 57
+ 08451 Crimmitschau
+ Germany
+
+End-user, Licensee or "you(r)" identifes an individual or a legal entity exercising rights under,
+and complying with all of the terms of, this agreement or a future version of
+this agreement.
+
+Software identifes all programs (binary code), data and documentation provided to you under the name "Pro Motion". 
+
+License key defines a code or data file containing information about the licensee. It allows to use extended
+functions that are available beyond a free edition of the software.
+
+
+2. Grant of license
+The software is owned and copyrighted by Cosmigo. It is licensed, not sold. Title to
+the software and all associated intellectual property rights are retained by Cosmigo.
+Cosmigo grants you a non-exclusive and non-transferable right to use the software
+for lawful purposes under certain obligations and limited rights as set forth in
+this agreement.
+
+The license type can be one of the following:
+a) Free edition being a license free of charge which is feature limited compared
+to a purchased license. The feature limitation is defined in the software documentation
+and may vary from time to time. It is the default license when installing the software
+and not using any license key.
+
+b) A single user license is a purchased license that allows the use of all features
+of the software by applying a license key.
+
+c) An educational single user license is a purchased license that allows the use of all features
+of the software by applying a license key.
+You may use the software for non-commercial and non-profit purposes only.
+Specifically the software may not be used to create products that are sold for profit or
+to gain profits indirectly except if this profit is immediately used by or
+donated to charitable organization/purposes or is returned into educational funds hold
+exclusively by Licensee.
+
+You may:
+   - Save and use an unlimited number of copies of license type a).
+   - Save and use the number of copies of the software for which the corresponding
+     license fee has been paid and activate the license b) or c) by applying the license key.
+	 You must ensure, that only the number of users for which
+     the corresponding single user license fee has been paid, are able to use the software. 
+     (If you purchased for example 5 single user licenses, only 5 users are allowed to use software,
+     no matter, whether the software is installed on the 5 user's computer or is available
+     through a network share.)
+   - Make a copy of the software for archival purposes.
+
+You must not:
+   - reverse engineer, decompile, disassemble or otherwise make any attempt to 
+     discover the source code of the software;
+   - modify or create derivative work based upon the software in whole or in parts;
+   - distribute, sell or transfer copies of the license key to other parties;
+   - remove any proprietary notices, labels or copyrights from the software;
+   - resell, redistribute, lease, rent, transfer, sublicense or otherwise transfer
+     rights of the software without the prior written consent of Cosmigo.
+
+	  
+3. Obligations of Licensee and Disclaimer of warranty
+Unless specified in this agreement, all expressed or implied conditions, representations
+and warranties, including any implied warranty of merchantability, fitness for a particular
+purpose or non-infringement are disclaimed.
+Cosmigo can not ensure that he software will meet the wishes and needs of the licensee.
+ 
+The licensee takes reasonable steps to protect the license key against unauthorized
+access by third parties and to keep it confidentially.
+The licensee is liable for all damages arising out of not protecting the license key
+against unauthorized access or publication.
+The licensee must immediately inform Cosmigo about any suspicion of unauthorized use or
+of the license key.
+	
+	
+4. Termination
+This agreement is affected until terminated. You may terminate this agreement at
+any time. This agreement will terminate immediately without notice from Cosmigo
+if you fail to comply with the terms and conditions of this agreement.
+
+You agree that upon termination of this agreement for any reason, Cosmigo may take actions
+so that software no longer operates.
+Specifically Cosmigo preserves the right to block the license key when this agreement
+is violated and revoke granted rights for good cause.
+
+Upon termination, you must delete software and all copies of the software.
+ 	
+	
+5. Updates and Upgrades
+There may be software updates to ensure it's continued function. Updates can include
+bug fixes, new features or cause features or documentation to be removed.
+Upgrades usually define subsequent versions that contain a new set of features which may
+require an additional upgrade fee and license key.
+Upgrade licenses replace the original license of the initially purchased software version.
+Cosmigo reserves the right to deactivate license keys that have been upgraded to a new
+license key.
+
+		
+6. Warranty and limited warranty
+ 1. The current state of technology does not allow for creating software in a way that
+    all applications and combinations, in particular with various
+    hardware components and software frameworks, will work fawlessly at any time.
+	The end-user is responsible for using appropriate hard- and software environment as
+	required by the software.
+	
+ 2. Conditions for end-users located in the European Union
+    If you are living in a country of the European Union or when your company is based
+	in a country of the European Union when purchasing the software, the following warranty rights shall
+	apply (warranty).
+	
+	In case of defects in the software or the associated documentation and upon notifcation by the end-user,
+    Cosmigo will initially provide warranty by providing a new software with the defect being removed.
+	The notification of a defect shall always be in writing.
+	
+    If Cosmigo is not willing or can not provide a new software replacement or if the action will be delayed
+	beyond the reasonable period agreed upon with the end-user or if the action will fail due to any other reasons,
+	the end-user shall be entitled to withdraw from the contract or may insist on a reduction of the license price. 
+	Withdrawing or reduction of price may only apply if Cosmigo has been given enough opportunity for
+    removing the defect without the desired result. Cosmigo may try to remove the defect by delivering
+	new software twice.
+    The right of the end-user to claim for damages under §437 of the German Civil Code (BGB) remains unaffected.
+    
+	The limitation period for all claims for damages is determined by legal provisions
+    and begins with the delivery or providing/granting of the license.
+    
+	This warranty does not apply to software that has been provided to the end-user
+    free of charge. Cosmigo is then not obligated to remove any defects or
+    to pay compensation if the license is free of charge. With a license free of charge
+	the software is provided "AS IS".
+	
+    Cosmigo is not liable for any damages, which arise due to omitting the
+    installation of provided updates.
+	
+ 3. Special conditions for end-users located in the US. If you are living
+    in the US or if your company is based there when purchasing the software, the
+    following warranty rights shall apply (warranty).
+	
+    Cosmigo guarantees that the software licensed under this agreement will
+    work substantially in compliance with the documentation for the period of sixty
+    (60) days from the moment of the installation and activation with the license key
+    ("warranty period"), including updades, which are provided within the warranty
+    period for the rest of the warranty period.
+	 
+	This warranty does not apply to software that has been provided to the end-user
+    free of charge. Cosmigo is then not obligated to remove any defects or
+    to pay compensation if the license is free of charge. With license free of charge
+	the software is provided "AS IS".
+    
+    THE PRECEDING WARRANTIES ARE THE ONLY WARRANTIES APPLYING TO THE ENDUSER,
+    Cosmigo PROVIDES NO WARRANTIES AS TO THE FUNCTION OR USE OF THE LICENSED
+    PROGRAMS, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING,
+    WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR
+    FITNESS FOR PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND
+    PERFORMANCE OF THE LICENSED PROGRAM IS WITH LICENSEE. LICENSOR DOES
+    NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE LICENSED PROGRAMS
+    WILL MEET LICENSEE'S REQUIREMENTS OR THAT THE OPERATION OF THE
+    LICENSED PROGRAMS WILL BE UNINTERRUPTED OR ERROR FREE. 
+
+	
+7. Limitation of liability
+To the extent not prohibited by law, in no event Cosmigo or any third-party-developer
+will be liable for any lost revenue, profit or data or for special, indirect, consequential,
+incidental or punitive damages, however caused regardless of the theory of liability,
+arising out of or related to the use of or inability to use software, even if Cosmigo
+has been advised of the possibility of such damages.
+
+Solely you are responsible for determining the appropriateness of using software
+and accept full responsibility for all risks associated with its exercise of rights
+under this agreement, including but not limited to the risks and costs of program
+errors, compliance with applicable laws, damage to or loss of data, programs or equipment,
+and unavailability or interruption of operations.
+
+In no event will Cosmigo's liability to you, whether in contract, tort (including negligence)
+or otherwise, exceed the amount paid by you for software under this agreement.
+The foregoing limitations will apply even if the above stated warranty fails of
+its essential purpose.
+
+You acknowledge, that it is in the nature of software that software is complex and
+not completely free of errors.
+
+Software has been created using technologies that are not fault tolerant and thus
+the Software is not designed, manufactured, or intended for use in hazardous environments
+including, but without limitation, in the operation of nuclear facilities, aircraft
+navigation or communication systems, air traffic control, direct life support machines,
+or weapons systems, in which the failure of the technologies employed in the Software
+could lead directly to death, personal injury, severe physical, environmental or
+monetary damage.
+
+If the foregoing limitations are prohibited by your countrie's law or by the countrie's
+law where software should be used, software must not be used!
+
+
+8. Governing law
+This agreement will be governed by the laws of Germany, without reference to conflict
+of laws principles. You agree that any litigation relating to this agreement may
+only be brought in and shall be subject to the jurisdiction of Zwickau (Germany) City Court.
+
+
+9. End-User's Contractual Right to Return Software
+The software will be offered to the end-user for download. Therefore, a right for
+withdrawal for the beneft of consumers does not exist. The right for withdrawal does not
+exist for contracts concerning the delivery of goods, which due to their nature are not
+suited for being returned. This includes the software.
+	 	 
+		 
+10. Final Provisions
+Any further agreements that extend this agreement shall be in writing.
+If any provisions of this contract prove ineffective, unenforceable or violate law,
+the validity of the remaining provisions of this contract shall be unaffected.
+In this case, the invalid or ineffective provision must be replaced by a new regulation, which meets the intended
+purpose and shall apply from the beginning of the ineffectiveness.
+Insofar as provisions are concerned, which are essential or cannot be ommitted without
+endangering the purpose of this contract, the contracting partners commit themselves,
+under consideration of the intended purpose, to interpret, to correct or to replace the
+contract with another effective and enforceable provision so that its commercial and
+legal purpose may be attained.
+
+ 
+Jan Zimmermann, Cosmigo, Germany
+Effective: 12/2015
+
+
+Pro Motion uses Open Source Libraries based on their respective license as
+defined in third_party_licenses.txt .
